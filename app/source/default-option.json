@@ -1,0 +1,6 @@
+[
+  {"id": "cat_0", "cat_name": "Select Catgory","value": "0"},
+  {"id": "cat_1", "cat_name": "Food", "value": "F"},
+  {"id": "cat_2", "cat_name": "Clothes", "value": "C"},
+  {"id": "cat_3", "cat_name": "Traffic", "value": "T"}
+]

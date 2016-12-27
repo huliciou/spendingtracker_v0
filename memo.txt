@@ -1,0 +1,9 @@
+App
+
+-SpendingForm
+-SpendingSummary
+	-Spending list
+	-Spending chart
+	
+
+
